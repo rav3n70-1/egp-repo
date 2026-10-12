@@ -104,8 +104,8 @@ To cleanly remove SohojTender:
 
 ## 📞 Support & Inquiries
 
-* **Official Website:** [https://sohojtender.com](https://sohojtender.com)
-* **Support Email:** [support@sohojtender.com](mailto:support@sohojtender.com)
+* **Official Website:** [https://rohansnfc5.vercel.app/](https://rohansnfc5.vercel.app/)
+* **Support Email:** [support@sohojtender.com](mailto:mehedihasanrohan07@gmail.com)
 * **Releases & Updates:** [https://github.com/rav3n70-1/egp-repo/releases](https://github.com/rav3n70-1/egp-repo/releases)
 
 ---
